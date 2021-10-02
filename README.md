@@ -1,4 +1,4 @@
-### Hi there, I'm Rui! 👋
+### Hi Stranger, I'm Rui! 👋
 
 - 🌱 Learning / improving every single day.
 - 👨‍💻 I'm open for projects, hit me up!
