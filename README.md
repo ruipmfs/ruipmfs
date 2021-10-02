@@ -12,7 +12,7 @@ ___________________________________________________
 
 ___________________________________________________
 
-![Git Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ruipmfs&theme=onedark&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruipmfs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 I'm watching you :)
