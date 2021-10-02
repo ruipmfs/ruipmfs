@@ -5,7 +5,10 @@
 - 🥅 Goals: Learn at least a bit of every single language.
 - ⚡ Fun fact: I love to hang out with people and do sports!
 
-
+___________________________________________________
 
 ![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruipmfs&theme=onedark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruipmfs&layout=compact)](https://github.com/ruipmfs/github-readme-stats)
+
+___________________________________________________
+
+![Git Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ruipmfs&theme=onedark&count_private=true)
