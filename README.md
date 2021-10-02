@@ -1,7 +1,7 @@
 ### Hi Stranger, I'm Rui! 👋
 
 - 🌱 Learning / improving every single day.
-- 👨‍💻 I'm open for projects, hit me up!
+- 👨‍💻 I'm open for inovative projects, hit me up!
 - 🥅 Goals: Learn at least a bit of every single language.
 - 🌌 Freelance Designer on my free time.
 - ⚡ Fun fact: I love to hang out with people and do sports!
