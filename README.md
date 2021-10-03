@@ -1,7 +1,7 @@
 ### Hi Stranger, I'm Rui! 👋
 
 - 🌱 Learning / improving every single day.
-- 🌐 Visit my [website and portfolio][website]
+- 🌐 Check out my [website and portfolio][website]
 - 👨‍💻 I'm open for inovative projects, hit me up!
 - 🥅 Goals: Learn at least a bit of every single language.
 - 🌌 Freelance Designer on my free time.
