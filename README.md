@@ -15,7 +15,7 @@ ___________________________________________________
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruipmfs&theme=onedark&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: (https://ruipmfs.github.io/)
+[website]: https://ruipmfs.github.io/
 
 <!--
 I'm watching you :)
