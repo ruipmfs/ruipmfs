@@ -19,7 +19,7 @@ ___________________________________________________
 
 [![Github](https://img.shields.io/github/followers/vascofaria?label=Follow&style=social)](https://github.com/ruipmfs)
 
-[website]: https://ruipmfs.github.io/
+[website]: https://ruipmfs.vercel.app/
 
 <!--
 I'm watching you :)
