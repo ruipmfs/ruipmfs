@@ -1,4 +1,4 @@
-### Hi Stranger, I'm Rui! 👋
+### Hey, I'm Rui! 👋
 
 - 🌱 Learning / improving every single day.
 - 🌐 Check out my [website][website]!
@@ -22,5 +22,5 @@ ___________________________________________________
 [website]: https://ruipmfs.vercel.app/
 
 <!--
-I'm watching you :)
+Hello there, feel free to copy :)
 -->
