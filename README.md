@@ -1,12 +1,10 @@
 ### Hey, I'm Rui! 👋
 
-- 🌱 Learning / improving every single day.
 - 🌐 Check out my [website][website]!
 - 👨‍💻 I'm open for inovative projects, hit me up!
 - 🥅 Goals: Learn at least a bit of every single language.
 - 🌌 Freelance Designer on my free time.
-- ⚡ Fun fact: I love to hang out with people and do sports!
-
+  
 ___________________________________________________
 
 ![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruipmfs&theme=onedark&show_icons=true)
